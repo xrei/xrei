@@ -1,5 +1,5 @@
 <h2>
-🔥 Software Engineer 🔥
+👷 Software Engineer
 </h2>
 
 
